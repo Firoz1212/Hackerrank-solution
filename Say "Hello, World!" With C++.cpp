@@ -1,5 +1,5 @@
 /*
-print hello world in c++
+print hello word in 
 */
 #include <iostream>
 #include <cstdio>
