@@ -1,5 +1,5 @@
 /*
-print hello word in 
+print hello word in Cpp in hacker rank
 */
 #include <iostream>
 #include <cstdio>
